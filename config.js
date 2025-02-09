@@ -29,7 +29,7 @@ const CONFIG = {
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
-            startText: "This much, let's get married!",                                   // Text before the percentage
+            startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
@@ -44,7 +44,7 @@ const CONFIG = {
     loveMessages: {
         extreme: "WOOOOW YOUU love MEE that much?? 🥹❤️",  // Shows when they go past 5000%
         high: "Forever and ever, To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And much more! 🥰"                           // Shows when they go past 100%
+        normal: "And much more, let's get married! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
