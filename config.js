@@ -5,17 +5,17 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Luchi (Baby)",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Might I Have The Immense Pleasure Of Calling You My Valentine? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        cats: ['😼', '😸', '😽']                       // Cute cats emojis
     },
 
     // Questions and answers
@@ -24,16 +24,16 @@ const CONFIG = {
         first: {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            noBtn: "No, your mother hasn’t paid me this month",                                               // Text for "No" button
+            secretAnswer: "I don't like you, I love you more than anything my Italian boy! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            startText: "This much, let's get married!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "This February 14th, 2025, Lulu, would you do me the honor of allowing me to call you my Valentine this year? 🌹🌼🌺", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW You love MEE that much?? 🥹❤️",  // Shows when they go past 5000%
+        high: "Forever and ever, To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
+        normal: "And much more! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Ohhh siii! I'm the luckiest man in the world! 🎉💝💖💝💓",
+        message: "I love you so much, baby. Thank you for being my Valentine once again, and I hope it stays this way for AT LEAST the following 1,000 years, deal??",
+        emojis: "💋❤️😻💋❤️😻💋❤️"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -78,9 +78,9 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
-        stopText: "🔇 Stop Music",         // Button text to stop music
+        musicUrl: "https://res.cloudinary.com/dcpdfvofq/video/upload/v1739084271/a4jaqhfexmtpc9lkxe7m.mp3", // Music streaming URL
+        startText: "🎵 Sueltalo DJ",        // Button text to start music
+        stopText: "🔇 Paralo Ahi",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
