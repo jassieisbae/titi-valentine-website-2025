@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Luchi (Baby)",
+    valentineName: "Chris (Baby)",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Might I Have The Immense Pleasure Of Calling You My Valentine? 💝",
+    pageTitle: "Will you be my Valentine, bitch? 💞 ",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -24,8 +24,8 @@ const CONFIG = {
         first: {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No, your mother hasn’t paid me this month",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you more than anything my Italian boy! ❤️"           // Secret hover message
+            noBtn: "Too bad you're stuck with me FOREVER",                                               // Text for "No" button
+            secretAnswer: "I don't like you, I love you more than anything in this entire world! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "This February 14th, 2025, Luisana Caballero, would you do me the honor of allowing me to call you my Valentine this year? 🌹🌼🌺", // The big question!
+            text: "This February 14th, 2025, Chris, you will be my valentine this year 🌹🌼🌺", // I DON't ACCEPT NO! 
             yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            noBtn: "Too Bad lol"                                                 // Text for "No" button
         }
     },
 
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Ohhh siii! I'm the luckiest man in the world! 🎉💝💖💝💓",
+        title: "Ohhh siii! I'm the luckiest girl in the world! 🎉💝💖💝💓",
         message: "I love you so much, baby. Thank you for being my Valentine once again, and I hope it stays this way for AT LEAST the following 1,000 years, deal??",
         emojis: "💋❤️😻💋❤️😻💋❤️"  // These will bounce around
     },
